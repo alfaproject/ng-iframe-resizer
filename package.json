@@ -1,7 +1,9 @@
 {
   "name": "ng-iframe-resizer",
   "version": "0.0.1",
-  "dependencies": {},
+  "dependencies": {
+      "iframe-resizer": "~2.8.0"
+  },
   "devDependencies": {
     "chalk": "~1.0.0",
     "concat-stream": "~1.5.0",
